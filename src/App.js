@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Our Continuous Deployment works !
+          Our Continuous Deployment works
         </p>
         <a
           className="App-link"
